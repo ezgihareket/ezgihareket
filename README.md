@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&title_color=2d77dc&icon_color=2c72d1&text_color=2c72d1&bg_color=22272e">
+<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=22272e">
 
 <!--
 **ezgihareket/ezgihareket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
