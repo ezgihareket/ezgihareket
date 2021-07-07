@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&title_color=2d77dc&include_all_commits=true&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&title_color=805AD5&include_all_commits=true&count_private=true&hide_border=true">
 
 <!--
 
