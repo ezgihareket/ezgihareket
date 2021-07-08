@@ -1,8 +1,7 @@
 ### Hi there, I'm Ezgi 👋
+<br />
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false"> <img src="https://www5.lunapic.com/editor/working/162574464652012276?9258992514" width="240" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false"><img src="https://www5.lunapic.com/editor/working/162574464652012276?9258992514" width="240" align="right">
 
 
 
