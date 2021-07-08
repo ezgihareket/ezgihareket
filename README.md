@@ -8,7 +8,7 @@
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 
 <br />
@@ -19,7 +19,7 @@
 <br />
 
 <!--
-
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=22272e&hide_border=false">
 
 https://github-readme-stats.vercel.app/api?username=andrey-helldar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true
