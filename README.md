@@ -5,18 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false">
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
 
 ### 📩 Connect with me:
 
