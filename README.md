@@ -1,5 +1,5 @@
 ### Hi there, I'm Ezgi Hareket 👋
-
+<img alt="LinkedIn" src="https://www.linkedin.com/in/ezgi-hareket-94b11215a/&logo=linkedin&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false">
 
