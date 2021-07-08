@@ -1,4 +1,4 @@
-### Hi there, I'm Ezgi Hareket 👋
+### Hi there, I'm Ezgi 👋
 
 
 
