@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezgi <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="38">
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=andrey-helldar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ezgihareket&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false">
 
 
 ### 📩 Connect with me:
